@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/navjotsingh/Personal Repo/Mobile_Challenge/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/navjotsingh/.android/build-cache/711c2f41479fbd7d02c7f58bd6b5256b246e0435/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/navjotsingh/Personal Repo/Mobile_Challenge/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/navjotsingh/.android/build-cache/711c2f41479fbd7d02c7f58bd6b5256b246e0435/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/navjotsingh/Personal Repo/Mobile_Challenge/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/navjotsingh/.android/build-cache/711c2f41479fbd7d02c7f58bd6b5256b246e0435/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/navjotsingh/Personal Repo/Mobile_Challenge/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/navjotsingh/.android/build-cache/711c2f41479fbd7d02c7f58bd6b5256b246e0435/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/navjotsingh/Personal Repo/Mobile_Challenge/app/build/intermediates/res/merged/debug/anim/alpha.xml",
+        "source": "/Users/navjotsingh/Personal Repo/Mobile_Challenge/app/src/main/res/anim/alpha.xml"
+    },
+    {
+        "merged": "/Users/navjotsingh/Personal Repo/Mobile_Challenge/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/navjotsingh/.android/build-cache/711c2f41479fbd7d02c7f58bd6b5256b246e0435/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/navjotsingh/Personal Repo/Mobile_Challenge/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/navjotsingh/.android/build-cache/711c2f41479fbd7d02c7f58bd6b5256b246e0435/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/navjotsingh/Personal Repo/Mobile_Challenge/app/build/intermediates/res/merged/debug/anim/translate.xml",
+        "source": "/Users/navjotsingh/Personal Repo/Mobile_Challenge/app/src/main/res/anim/translate.xml"
+    },
+    {
+        "merged": "/Users/navjotsingh/Personal Repo/Mobile_Challenge/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/navjotsingh/.android/build-cache/711c2f41479fbd7d02c7f58bd6b5256b246e0435/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/navjotsingh/Personal Repo/Mobile_Challenge/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/navjotsingh/.android/build-cache/711c2f41479fbd7d02c7f58bd6b5256b246e0435/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/navjotsingh/Personal Repo/Mobile_Challenge/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/navjotsingh/.android/build-cache/711c2f41479fbd7d02c7f58bd6b5256b246e0435/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/navjotsingh/Personal Repo/Mobile_Challenge/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/navjotsingh/.android/build-cache/711c2f41479fbd7d02c7f58bd6b5256b246e0435/output/res/anim/abc_fade_in.xml"
+    }
+]

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+
+    <string name="title_activity_splashscreen">SplashscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="error_text">Something went wrong, please try again!</string>
+    <string-array name="spinner_array">
+        <item>Select Currency</item>
+    </string-array>
+</resources>
